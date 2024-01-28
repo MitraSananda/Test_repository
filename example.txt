@@ -1,3 +1,5 @@
 This is an example file on branch development.
 
-This line has been added on sananda_dev branch.
+This line has been added on branch sananda_dev.
+
+(Note : minor correction completed)
